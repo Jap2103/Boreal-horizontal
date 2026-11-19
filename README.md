@@ -1,12 +1,13 @@
-# Boreal Horizon
 
-GTA 6 meme bot for X - Post a GTA 6 meme on X (make.fun)
+[GTA 6 Meme on X](https://make.fun/bounty/gta6-meme-x-01)
+[Live Rank](https://make.fun/bounty/gta6-meme-x-01)
+[Live Reward](https://make.fun/bounty/gta6-meme-x-01)
 
-Generates a We got X before GTA 6 meme as 1080x1080 SVG and posts it to X.
+Boreal Horizon
+Entry untuk bounty Post a GTA 6 meme on X.
 
-## Run
+Tentang Project Ini
+Boreal Horizon adalah meme GTA 6 yang dibuat buat ikutan bounty di make.fun.
 
-deno run --allow-net --allow-env --allow-read --allow-write main.ts --dry-run
-
-## Live post
-Set X_BEARER_TOKEN in env. Never commit secrets.
+Link Bounty
+https://make.fun/bounty/gta6-meme-x-01
